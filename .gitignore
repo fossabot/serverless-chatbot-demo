@@ -18,3 +18,8 @@ var/
 
 # Serverless directories
 .serverless
+
+# node modules
+node_modules
+
+secrets.env.yml
