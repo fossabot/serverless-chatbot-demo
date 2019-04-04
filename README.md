@@ -1,4 +1,6 @@
 # serverless-chatbot-demo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvaibhavsingh97%2Fserverless-chatbot-demo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvaibhavsingh97%2Fserverless-chatbot-demo?ref=badge_shield)
+
 This is a demo serverless bot which gives excuses.
 
 ## Demo
@@ -60,3 +62,7 @@ $ curl -X POST https://<your_url>.amazonaws.com/dev/get_webhook_info
 It should output the above URL returned in the output
 
 Now, you can ask bot to get new excuses :wink:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvaibhavsingh97%2Fserverless-chatbot-demo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvaibhavsingh97%2Fserverless-chatbot-demo?ref=badge_large)
